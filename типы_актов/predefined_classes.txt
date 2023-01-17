@@ -1,7 +1,7 @@
 title
 requisites
-contractor_requisites
-customer_requisites
+requisites_contractor
+requisites_customer
 basis
 table
 sum
