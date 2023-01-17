@@ -29,4 +29,5 @@
 ### labelImg.exe -- exe файл для Windows
 
 # <a name = "acts"> </a> Итог:
-![Image alt](https://github.com/holliwid/instruction_for_labelImg/raw/main/{типы актов}/1й тип актов.png)
+![Image alt](https://github.com/holliwid/instruction_for_labelImg/raw/main/типы_актов/1й_тип_акта.png)
+
