@@ -29,4 +29,4 @@
 ### labelImg.exe -- exe файл для Windows
 
 # <a name = "acts"> </a> Итог:
-![acts](1й тип актов.jpg)
+![acts](1й тип актов.png)
