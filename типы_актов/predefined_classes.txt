@@ -1,0 +1,13 @@
+title
+requisites
+contractor_requisites
+customer_requisites
+basis
+table
+sum
+sum_in_words
+result_in_words
+contractor_signature
+contractor_seal
+customer_signature
+customer_seal
