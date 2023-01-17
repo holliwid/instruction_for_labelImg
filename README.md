@@ -12,8 +12,14 @@
 
 -----------------------------------------------------------
 # <a name="windows_install"></a> Как устанавливать на винду
-### текст
+###### делаем и активируем виртуалку, после качаем pyqt5, lxml. И запускаем.
+'''
+pip install pyqt5
+pip install lxml
 
+pyrcc5 -o libs/resources.py resources.qrc
+python labelImg.py
+'''
 -----------------------------------------------------------
 # <a name="ubuntu_install"></a> Как устанавливать на ubuntu
 ### текст 2
